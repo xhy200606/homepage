@@ -1,18 +1,18 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "青龙面板",
+    "link": "https://dash.xhy200606.asia/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "Alist",
+    "link": "https://alist.xhy200606.asia//"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://xy.xhy200606.asia/"
   },
   {
     "icon": "Compass",
@@ -21,13 +21,13 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "小雅Alist",
+    "link": "https://xy.xhy200606.asia/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "控制面板榜",
+    "link": "https://control.xhy200606.asia/"
   },
   {
     "icon": "LaptopCode",
